@@ -1,0 +1,32 @@
+{
+  "name": "clone",
+  "description": "easy cloning of objects and arrays",
+  "tags": [
+    "clone",
+    "object",
+    "array",
+    "date"
+  ],
+  "version": "1.0.0",
+  /*"repository": {
+    "type": "git",
+    "url": "git://github.com/pvorb/node-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pvorb/node-clone/issues"
+  },*/
+  "main": "index.js",
+  "author": "koeshiro <koeshiro@yandex.ru>",
+  "contributors": [
+  ],
+  "license": "FreeBSD",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "optionalDependencies": {},
+  "scripts": {
+  }
+}
